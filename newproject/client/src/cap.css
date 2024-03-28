@@ -1,0 +1,13 @@
+/* webcam-capture.css */
+
+.webcam-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Độ cao của phần tử chứa webcam */
+}
+
+.webcam-preview {
+    max-width: 100%; /* Chiều rộng tối đa của webcam */
+    max-height: 100%; /* Chiều cao tối đa của webcam */
+}
